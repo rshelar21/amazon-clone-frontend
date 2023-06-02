@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## backend code
+https://github.com/rshelar21/amazon-clone-backend
+
 ## Available Scripts
 
 In the project directory, you can run:
